@@ -1,0 +1,4 @@
+class home {
+method s1
+method s2
+}
